@@ -1,9 +1,9 @@
-# SANOFI Magne ZiS Generyk, 230322-SF-23
+# SANOFI Magne ZiS Ceneo, 230322-SF-23
 <!-- please enter project number recived from PM -->
 
 ## LIVE SITE LINK 
 <!-- please enter link to site preview here -->
-[Live on Netlify](https://magne-zis.netlify.app/)
+[Live on Netlify](https://648abe74d54dfb54d5ecd3a5--precious-pegasus-f18a30.netlify.app/)
 
 ## PROJECT PREVIEW
 <!-- ![Design preview for the project](./link) -->
@@ -15,7 +15,7 @@
 
 ### DESTINATION (name of e-retailer or general/pure)
 <!-- please enter e-retailers name -->
-Generic, then Melissa
+Ceneo
 
 ### E-RETAILER’S SPECIFICATION (technical guidelines; html, css, graphics, photos, resolution)
 <!-- please enter any additional comments important for the project -->
