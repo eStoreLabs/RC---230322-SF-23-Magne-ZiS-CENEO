@@ -725,6 +725,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    &__content {
+      &--desktop {
+        display: none;
+      }
+    }
 
     &__title {
       font-size: 32px;
@@ -757,6 +762,7 @@ body {
       box-shadow: 0 0 0 0 rgba(255, 255, 255, 1);
       animation: es-pulse2 2s infinite;
       &--main {
+        margin-top: 16px;
         width: 250px;
       }
     }
@@ -811,6 +817,14 @@ body {
     @container (min-width: 768px) {
       height: 133cqi;
       background: url(img/bg-cross.png) no-repeat center bottom;
+      &__content {
+        &--desktop {
+          display: block;
+        }
+      }
+      &__details {
+        display: none;
+      }
       &__title {
         font-size: 40px;
       }

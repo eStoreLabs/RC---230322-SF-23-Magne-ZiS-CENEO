@@ -16,15 +16,7 @@
   font-weight: 800;
   font-style: normal;
 }
-html,
-body {
-  margin: 0;
-  padding: 0;
-}
 
-* {
-  box-sizing: border-box;
-}
 @keyframes es-pulse {
   0% {
     border-radius: 50%;
@@ -646,6 +638,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+#es-magne.es-magne .es-cross__content--desktop {
+  display: none;
+}
 #es-magne.es-magne .es-cross__title {
   font-size: 32px;
   font-weight: 600;
@@ -678,6 +673,7 @@ body {
   animation: es-pulse2 2s infinite;
 }
 #es-magne.es-magne .es-cross__link--main {
+  margin-top: 16px;
   width: 250px;
 }
 #es-magne.es-magne .es-cross__subtitle {
@@ -731,6 +727,12 @@ body {
   #es-magne.es-magne .es-cross {
     height: 133cqi;
     background: url(img/bg-cross.png) no-repeat center bottom;
+  }
+  #es-magne.es-magne .es-cross__content--desktop {
+    display: block;
+  }
+  #es-magne.es-magne .es-cross__details {
+    display: none;
   }
   #es-magne.es-magne .es-cross__title {
     font-size: 40px;
