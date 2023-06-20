@@ -3,7 +3,7 @@
 
 ## LIVE SITE LINK 
 <!-- please enter link to site preview here -->
-[Live on Netlify](https://648abe74d54dfb54d5ecd3a5--precious-pegasus-f18a30.netlify.app/)
+[Live on Netlify](https://magne-zis-ceneo.netlify.app/)
 
 ## PROJECT PREVIEW
 <!-- ![Design preview for the project](./link) -->
